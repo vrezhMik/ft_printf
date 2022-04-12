@@ -3,7 +3,7 @@ LIBFT	=	./libft/libft.a
 NAME	=	libftprintf.a
 
 
-SRCS	=  src/ft_printf.c 	
+SRCS	=  src/ft_printf.c 	src/ft_print_uns.c src/ft_print_str.c src/ft_print_ptr.c src/ft_print_nbr.c src/ft_print_hex.c src/ft_print_chr.c
 
 CC = gcc
 

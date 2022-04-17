@@ -6,7 +6,11 @@
 /*   By: vmikayel <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/04/12 10:50:19 by vmikayel          #+#    #+#             */
+<<<<<<< HEAD
 /*   Updated: 2022/04/15 15:27:42 by vmikayel         ###   ########.fr       */
+=======
+/*   Updated: 2022/04/12 11:01:34 by vmikayel         ###   ########.fr       */
+>>>>>>> 408d2e803f33384cb27f2db8ee2b59e39cfca6e6
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -59,7 +63,11 @@ t_combination	get_combination(const char *line, int i, va_list ap)
 int	ft_printf(const char *line, ...)
 {
 	va_list			ap;
+<<<<<<< HEAD
 	t_combination	comb;
+=======
+	t_combination		comb;
+>>>>>>> 408d2e803f33384cb27f2db8ee2b59e39cfca6e6
 	int				len;
 	int				i;
 
